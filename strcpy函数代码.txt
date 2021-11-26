@@ -14,7 +14,3 @@ char* StrCpy(char* src)
 	free(p);
 	return p;
 }
-
-/**
-remote edit
-**/
