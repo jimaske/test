@@ -14,8 +14,7 @@ char* StrCpy(char* src)
 	free(p);
 	return p;
 }
-int main() {
-	char stc[] = { "hello" };
-	printf("%s", StrCpy(stc));
-	return 0;
-}
+
+/**
+remote edit
+**/
